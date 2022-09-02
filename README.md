@@ -1,16 +1,28 @@
 # Medical-Image-segmentation
-Medical image segmentation has an essential role in computer-aided diagnosis systems in different applications. The vast investment and development of medical imaging modalities such as microscopy, dermoscopy, X-ray, ultrasound, computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography attract researchers to implement new medical image-processing algorithms. Image segmentation is considered the most essential medical imaging process as it extracts the region of interest (ROI) through a semiautomatic or automatic process. It divides an image into areas based on a specified description, such as segmenting body organs/tissues in the medical applications for border detection, tumor detection/segmentation, and mass detection.
-magine speeding up research for almost every disease, from lung cancer and heart disease to rare disorders. The 2018 Data Science Bowl offers our most ambitious mission yet: create an algorithm to automate nucleus detection.
-We’ve all seen people suffer from diseases like cancer, heart disease, chronic obstructive pulmonary disease, Alzheimer’s, and diabetes. Many have seen their loved ones pass away. Think how many lives would be transformed if cures came faster.
+
+## What is Medical Image Segmentation?
+
+Medical image segmentation is the process of partitioning a digital image into multiple segments (sets of pixels, also known as image objects). The goal of segmentation is to simplify and/or change the representation of an image into something that is more meaningful and easier to analyze.
+
+## Why Medical Image Segmentation?
+
+Medical image segmentation is a fundamental step in the analysis of medical images. It is the first step in extracting information from medical images. It is used to identify and localize structures of interest in medical images. It is also used to identify and classify different types of cells and tissues in medical images.
+
+## Requirements and Tools
+
+1. [Python 3.6](https://www.python.org/downloads/release/python-360/)
+2. [Tensorflow 1.4](https://www.tensorflow.org/install/)
+3. [Keras 2.1.5](https://keras.io/#installation)
+4. [OpenCV 3.4.1](https://opencv.org/releases.html)
+5. [Numpy 1.14.3](https://pypi.org/project/numpy/)
+6. [Scikit-learn 0.19.1](https://scikit-learn.org/stable/install.html)
+7. [Scikit-image 0.13.1](https://scikit-image.org/docs/dev/install.html)
+8. [Matplotlib 2.2.2](https://matplotlib.org/users/installing.html)
+9. [Pandas 0.23.0](https://pandas.pydata.org/pandas-docs/stable/install.html)
 
 
-# Requirements :
-<li>
-  <ol>
-    <p>Keras</p>
-    <p>Tensorflow 2.0</p>
-    <p>U-net </p>
-    <p>Numpy </p>
-  </ol>
-</li>
+
+
+
+
   
